@@ -1,0 +1,166 @@
+Added Component: Designator=C1(CAP: TANTAL-A)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/F930J107KAAAJ6/478-12404-1-ND/9645231"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "2Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "F930J107KAAAJ6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 1000?F, 25V, ±10%, 2Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 1210)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC1210KKX7R9BB104/311-4522-1-ND/8025611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC1210KKX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.1?F, X7R, ±10%, , 1210, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP: TANTAL-A)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/F930J107KAAAJ6/478-12404-1-ND/9645231"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "2Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "F930J107KAAAJ6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 100?F, 6.3V, ±10%, 2Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP: TANTAL-C)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/F931E226MCC/478-8314-1-ND/4006045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "1.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case C (6032)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "F931E226MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 24?F, 25V, ±10%, 1.1Ohm, case C (6032), -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(TO-220 WITH TAB)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FU1(FUSE: 0ADBP3000-RE)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=01110501Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "0,25A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "5x20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "01110501Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeFuse"; Value = "Electromechanics relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Electromechanics relay, 250VAC, 0,25A, 5x20mm, "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 3296W)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/bourns-inc/3296W-1-103LF/3296W-103LF-ND/1088045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3296W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 4,7k, , 3296W, 0.5W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0.25)
+Add component (AddParameter): Name = "Value"; Value = "240"; VariantName = "[No Variations]"
+Added Component: Designator=SA1(8AS9M2RE)
+Add component (AddParameter): Name = "Author"; Value = "pcbdesigner.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T1(TRANS: BV 201 0128)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.electronshik.ru/item/HAHN/BV%20201%200128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hahn Trafo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BV2010128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.35W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransformer"; Value = "Transformer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Transformer, , 0.35W"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DIODE: DF206S-G)
+Add component (AddParameter): Name = "Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/comchip-technology/DF206ST-G/641-1425-1-ND/2208797"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "KÖ407À"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single phase rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single phase rectifier, 600V, 2A, 1.1V, 4-SMD, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1.1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DIODE: SMA)
+Add component (AddParameter): Name = "Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM317T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(DIODE: SMA)
+Add component (AddParameter): Name = "Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4148WX-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=X1(2XR)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+15 Pin=C4-1
+Added Pin To Net: NetName=+15 Pin=DA1-1
+Added Pin To Net: NetName=+15 Pin=R2-2
+Added Pin To Net: NetName=+15 Pin=VD2-1
+Added Pin To Net: NetName=+15 Pin=VD3-2
+Added Net: Name=+15
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R1-3
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-2
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=DA1-2
+Added Pin To Net: NetName=NetC1_1 Pin=VD1-3
+Added Pin To Net: NetName=NetC1_1 Pin=VD2-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_3 Pin=R1-1
+Added Pin To Net: NetName=NetDA1_3 Pin=R2-1
+Added Pin To Net: NetName=NetDA1_3 Pin=VD3-1
+Added Net: Name=NetDA1_3
+Added Pin To Net: NetName=NetFU1_1 Pin=FU1-1
+Added Pin To Net: NetName=NetFU1_1 Pin=X1-2
+Added Net: Name=NetFU1_1
+Added Pin To Net: NetName=NetFU1_2 Pin=FU1-2
+Added Pin To Net: NetName=NetFU1_2 Pin=T1-1
+Added Net: Name=NetFU1_2
+Added Pin To Net: NetName=NetSA1_1 Pin=SA1-1
+Added Pin To Net: NetName=NetSA1_1 Pin=X1-1
+Added Net: Name=NetSA1_1
+Added Pin To Net: NetName=NetSA1_2 Pin=SA1-2
+Added Pin To Net: NetName=NetSA1_2 Pin=T1-4
+Added Net: Name=NetSA1_2
+Added Pin To Net: NetName=NetT1_6 Pin=T1-6
+Added Pin To Net: NetName=NetT1_6 Pin=VD1-4
+Added Net: Name=NetT1_6
+Added Pin To Net: NetName=NetT1_7 Pin=T1-7
+Added Pin To Net: NetName=NetT1_7 Pin=VD1-2
+Added Net: Name=NetT1_7
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
